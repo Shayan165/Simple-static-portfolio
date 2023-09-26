@@ -260,7 +260,7 @@ nav {
 
 /* ----media section ----- */
 
-@media (max-width: 600px) {
+@media (max-width: 480px) {
   .logo > img {
     height: 60px;
   }
@@ -279,6 +279,7 @@ nav {
   }
   .text {
     font-size: 15px;
+    margin: -30px;
   }
 
   .video-container {
@@ -370,7 +371,7 @@ font-size: 30px;
   
 }
 
-@media (max-width: 480px) {
+@media (max-width: 600px) {
   .skills-section{
     margin: 0 74px;
   }
